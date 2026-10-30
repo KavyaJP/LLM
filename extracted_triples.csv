@@ -1,0 +1,5 @@
+Subject,Predicate,Object
+Alice,HEADS,Engineering Department
+Engineering Department,RESPONSIBLE_FOR,Project Titan
+Project Titan,RELIES_ON,Quantum Server
+Quantum Server,LOCATED_IN,Berlin Data Center
