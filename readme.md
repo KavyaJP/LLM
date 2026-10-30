@@ -17,3 +17,4 @@ This repo records my journey of learning the creation of LLM.
 | 9        | Graph RAG                           | [File](9-GraphRAG_Multi_Hop_Retrieval.ipynb)        |
 | 10       | PEFT QLoRA VRAM Measurment          | [File](10-PEFT_QLoRA_VRAM_Measurement.ipynb)        |
 | 11       | Multi Agent VLM Evaluation          | [File](11-Multi_Agent_VLM_Evaluation.ipynb)         |
+| 12       | LLM Evaluation and Auditing         | [File](12-LLM_Evaluation_and_Auditing.ipynb)        |
