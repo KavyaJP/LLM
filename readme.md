@@ -11,3 +11,4 @@ This repo records my journey of learning the creation of LLM.
 | 3        | LSTM using Pytorch                  | [File](3-LSTM_using_pytorch.ipynb)                  |
 | 4        | Transformer from Scratch            | [File](4-Trasnformer_from_scratch.ipynb)            |
 | 5        | Text Generation and Semantic Search | [File](5-Text_Generation_and_Semantic_Search.ipynb) |
+| 6        | Open Source vs Closed Source Model  | [File](6-Model_Hub_API_Comparison.ipynb)            |
